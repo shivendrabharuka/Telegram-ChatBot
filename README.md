@@ -1,2 +1,2 @@
-# Telegram-ChatBot
-This repository contains the code for this ChatBot
+# dialogflow-telegram-chatbot
+Backend for a Dialogflow chatbot
